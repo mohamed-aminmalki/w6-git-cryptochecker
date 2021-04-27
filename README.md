@@ -1,0 +1,1 @@
+# Dev 4: WC6-git-template
